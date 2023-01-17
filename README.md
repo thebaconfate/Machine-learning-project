@@ -18,6 +18,7 @@ To make a virtual environment in Visual Studio Code, follow these steps:
 3. Type in the terminal: .\env\Scripts\activate to activate the virtual environment
 4. Type in the terminal: pip install -r requirements.txt to install the libraries and their dependencies.
 
-
 Author: Gérard Lichtert
 StudentID: 0557513
+
+Most of the inspired code is from the official libraries https://scikit-learn.org/stable/index.html
