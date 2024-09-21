@@ -1,5 +1,7 @@
 # Machine learning project
 
+This is the Machine learning assignment that is mandatory for the Machine Learning course at the VUB. The course was taken during 2022-2023.
+
 Inside you'll find the provided example notebooks as well as the datasets (both outdated and updated)
 
 For the project content please consult Project notebook.ipynb
